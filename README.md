@@ -1,2 +1,2 @@
 # CFM-Assignment-1
-The provided can be used for educational references, please refrain from copying the codes. 
+This repository is for educational references only, please refrain from copying the codes. 
