@@ -1,2 +1,2 @@
 # CFM-Assignment-1
-This repository is for educational references only, please refrain from copying the codes. 
+The codes have been provided for the partial fulfilment for the Assignment of MA 653. 
